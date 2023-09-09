@@ -1,4 +1,4 @@
-#Screenshot of webpage.
+# Screenshot of webpage.
 
 ![alt text](https://github.com/aditya-k-maurya/weather-app/blob/main/weatherApp.png)
 
